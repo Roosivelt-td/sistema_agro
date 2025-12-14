@@ -1,0 +1,435 @@
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.csproj.AssemblyReference.cache
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.GeneratedMSBuildEditorConfig.editorconfig
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.AssemblyInfoInputs.cache
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.AssemblyInfo.cs
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.csproj.CoreCompileInputs.cache
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.MvcApplicationPartsAssemblyInfo.cs
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.MvcApplicationPartsAssemblyInfo.cache
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/appsettings.Development.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/appsettings.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.staticwebassets.endpoints.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.deps.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.runtimeconfig.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.pdb
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Humanizer.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/MySqlConnector.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.CodeDom.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Text.Json.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/scopedcss/bundle/SistemaGestionAgricola.styles.css
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.build.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.build.json.cache
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.development.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaG.5630175C.Up2Date
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/refint/SistemaGestionAgricola.dll
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.pdb
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.genruntimeconfig.cache
+/home/roosivelt/Documentos/Ing. SIstemas/S-6/Programacion de servicios web/Final/SistemaGestionAgricola/obj/Debug/net9.0/ref/SistemaGestionAgricola.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/appsettings.Development.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/appsettings.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.staticwebassets.runtime.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.staticwebassets.endpoints.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.deps.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.runtimeconfig.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.pdb
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Humanizer.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/MySqlConnector.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.CodeDom.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.csproj.AssemblyReference.cache
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.GeneratedMSBuildEditorConfig.editorconfig
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.AssemblyInfoInputs.cache
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.AssemblyInfo.cs
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.csproj.CoreCompileInputs.cache
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.MvcApplicationPartsAssemblyInfo.cs
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.MvcApplicationPartsAssemblyInfo.cache
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.sourcelink.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/scopedcss/bundle/SistemaGestionAgricola.styles.css
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/compressed/o1vf0z4ale-gblulqhm04.gz
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.build.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.build.json.cache
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.development.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaG.5630175C.Up2Date
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/refint/SistemaGestionAgricola.dll
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.pdb
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.genruntimeconfig.cache
+/home/roosivelt/MEGA/ELP/Ing. sistemas/S-6/Servios-web/Final/SistemaGestionAgricola/obj/Debug/net9.0/ref/SistemaGestionAgricola.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/appsettings.Development.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/appsettings.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.staticwebassets.runtime.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.staticwebassets.endpoints.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.deps.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.runtimeconfig.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/SistemaGestionAgricola.pdb
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Humanizer.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Configuration.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/MySqlConnector.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/System.CodeDom.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.csproj.AssemblyReference.cache
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.GeneratedMSBuildEditorConfig.editorconfig
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.AssemblyInfoInputs.cache
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.AssemblyInfo.cs
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.csproj.CoreCompileInputs.cache
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.MvcApplicationPartsAssemblyInfo.cs
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.MvcApplicationPartsAssemblyInfo.cache
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.sourcelink.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/scopedcss/bundle/SistemaGestionAgricola.styles.css
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/compressed/o1vf0z4ale-gblulqhm04.gz
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.build.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.build.json.cache
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.development.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaG.5630175C.Up2Date
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/refint/SistemaGestionAgricola.dll
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.pdb
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/SistemaGestionAgricola.genruntimeconfig.cache
+/home/roosivelt/RiderProjects/SistemaGestionAgricola/obj/Debug/net9.0/ref/SistemaGestionAgricola.dll
