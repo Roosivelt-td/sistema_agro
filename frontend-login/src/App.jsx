@@ -25,10 +25,37 @@ const LoginView = ({ setCurrentView }) => {
   const [password, setPassword] = useState('')
   const [showGoogleAuth, setShowGoogleAuth] = useState(false)
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault()
-    // Lógica de inicio de sesión aquí
-    console.log('Iniciar sesión con:', email, password)
+    
+    try {
+      // Lógica de inicio de sesión aquí - conexión con backend
+      const response = await fetch('/api/auth/login', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ email, password })
+      });
+      
+      const data = await response.json();
+      
+      if (response.ok) {
+        if (data.requiresVerification) {
+          // Si el backend requiere verificación adicional
+          setCurrentView('verification');
+        } else {
+          // Login exitoso sin verificación adicional
+          alert('Inicio de sesión exitoso');
+          // Aquí iría la lógica para redirigir al usuario
+        }
+      } else {
+        alert(data.message || 'Error en el inicio de sesión');
+      }
+    } catch (error) {
+      console.error('Error en el inicio de sesión:', error);
+      alert('Error de conexión con el servidor');
+    }
   }
 
   const handleGoogleAuthSuccess = (code) => {
@@ -101,14 +128,41 @@ const RegisterView = ({ setCurrentView }) => {
   const [password, setPassword] = useState('')
   const [confirmPassword, setConfirmPassword] = useState('')
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault()
     if (password !== confirmPassword) {
       alert('Las contraseñas no coinciden')
       return
     }
-    // Lógica de registro aquí
-    console.log('Registrar usuario con:', email, password)
+    
+    try {
+      // Lógica de registro aquí - conexión con backend
+      const response = await fetch('/api/auth/register', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ email, password })
+      });
+      
+      const data = await response.json();
+      
+      if (response.ok) {
+        if (data.requiresVerification) {
+          // Si el backend requiere verificación adicional
+          setCurrentView('verification');
+        } else {
+          // Registro exitoso sin verificación adicional
+          alert('Registro exitoso');
+          setCurrentView('login');
+        }
+      } else {
+        alert(data.message || 'Error en el registro');
+      }
+    } catch (error) {
+      console.error('Error en el registro:', error);
+      alert('Error de conexión con el servidor');
+    }
   }
 
   return (
@@ -161,11 +215,31 @@ const RegisterView = ({ setCurrentView }) => {
 const ForgotPasswordView = ({ setCurrentView }) => {
   const [email, setEmail] = useState('')
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault()
-    // Lógica para recuperar contraseña aquí
-    console.log('Recuperar contraseña para:', email)
-    setCurrentView('verification') // Pasar a la vista de verificación
+    
+    try {
+      // Lógica para recuperar contraseña aquí - conexión con backend
+      const response = await fetch('/api/auth/forgot-password', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ email })
+      });
+      
+      const data = await response.json();
+      
+      if (response.ok) {
+        // Backend envió código de verificación
+        setCurrentView('verification'); // Pasar a la vista de verificación
+      } else {
+        alert(data.message || 'Error al recuperar contraseña');
+      }
+    } catch (error) {
+      console.error('Error al recuperar contraseña:', error);
+      alert('Error de conexión con el servidor');
+    }
   }
 
   return (
@@ -212,11 +286,33 @@ const VerificationView = ({ setCurrentView }) => {
     }
   }
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault()
     const verificationCode = code.join('')
-    // Lógica de verificación aquí
-    console.log('Código de verificación:', verificationCode)
+    
+    try {
+      // Lógica de verificación aquí - conexión con backend
+      const response = await fetch('/api/auth/verify-code', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ code: verificationCode })
+      });
+      
+      const data = await response.json();
+      
+      if (response.ok) {
+        // Verificación exitosa
+        alert('Verificación exitosa');
+        setCurrentView('login'); // O redirigir al dashboard según corresponda
+      } else {
+        alert(data.message || 'Código de verificación incorrecto');
+      }
+    } catch (error) {
+      console.error('Error en la verificación:', error);
+      alert('Error de conexión con el servidor');
+    }
   }
 
   return (

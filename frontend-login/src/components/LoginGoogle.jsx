@@ -6,16 +6,34 @@ const LoginGoogle = ({ onVerificationSuccess }) => {
   const [showVerification, setShowVerification] = useState(false);
   const [verificationCode, setVerificationCode] = useState(['', '', '', '', '', '']);
 
-  // Simular inicio de sesión con Google
+  // Iniciar sesión con Google
   const handleGoogleLogin = async () => {
     setIsLoading(true);
     
-    // Simulamos una llamada al backend para iniciar sesión con Google
-    setTimeout(() => {
+    try {
+      // Lógica de inicio de sesión con Google - conexión con backend
+      const response = await fetch('/api/auth/google-login', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ email })
+      });
+      
+      const data = await response.json();
+      
+      if (response.ok) {
+        // Backend envió código de verificación
+        setShowVerification(true); // Mostrar campo de verificación después del inicio de sesión
+      } else {
+        alert(data.message || 'Error en el inicio de sesión con Google');
+      }
+    } catch (error) {
+      console.error('Error en el inicio de sesión con Google:', error);
+      alert('Error de conexión con el servidor');
+    } finally {
       setIsLoading(false);
-      setShowVerification(true); // Mostrar campo de verificación después del inicio de sesión
-      console.log('Inicio de sesión con Google solicitado para:', email);
-    }, 1500);
+    }
   };
 
   const handleCodeChange = (index, value) => {
@@ -32,16 +50,36 @@ const LoginGoogle = ({ onVerificationSuccess }) => {
     }
   };
 
-  const handleVerifyCode = (e) => {
+  const handleVerifyCode = async (e) => {
     e.preventDefault();
     const code = verificationCode.join('');
     
-    // Simulamos verificación del código con el backend
-    if (code.length === 6) {
-      console.log('Código de verificación recibido:', code);
-      onVerificationSuccess && onVerificationSuccess(code);
-    } else {
+    if (code.length !== 6) {
       alert('Por favor, ingrese el código completo de 6 dígitos');
+      return;
+    }
+    
+    try {
+      // Lógica de verificación del código de Google - conexión con backend
+      const response = await fetch('/api/auth/verify-google-code', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ code })
+      });
+      
+      const data = await response.json();
+      
+      if (response.ok) {
+        console.log('Código de verificación de Google recibido:', code);
+        onVerificationSuccess && onVerificationSuccess(code);
+      } else {
+        alert(data.message || 'Código de verificación incorrecto');
+      }
+    } catch (error) {
+      console.error('Error en la verificación con Google:', error);
+      alert('Error de conexión con el servidor');
     }
   };
 

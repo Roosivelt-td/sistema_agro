@@ -80,6 +80,46 @@ Para integrar con tu backend real:
 2. Actualiza las URLs y parámetros según la configuración de tu backend
 3. Implementa la lógica de manejo de tokens y almacenamiento de sesión
 
+## Conexión con el backend
+
+Para conectar este frontend con tu backend, necesitas implementar las siguientes rutas API:
+
+- `POST /api/auth/login` - Para iniciar sesión con email y contraseña
+- `POST /api/auth/register` - Para registrar nuevos usuarios
+- `POST /api/auth/forgot-password` - Para solicitar recuperación de contraseña
+- `POST /api/auth/verify-code` - Para verificar códigos de verificación
+- `POST /api/auth/google-login` - Para iniciar sesión con Google
+- `POST /api/auth/verify-google-code` - Para verificar códigos de Google
+
+Los endpoints deben responder con:
+- Código 200 para operaciones exitosas
+- Código de error para operaciones fallidas
+- JSON con mensajes de error si es necesario
+
+## Configuración de proxy para desarrollo
+
+Durante el desarrollo, puedes configurar un proxy para redirigir las solicitudes API a tu backend.
+Actualiza el archivo `vite.config.js` agregando la configuración de proxy:
+
+```javascript
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  server: {
+    proxy: {
+      '/api': {
+        target: 'http://localhost:tu_puerto_backend', // Reemplaza con la URL de tu backend
+        changeOrigin: true,
+        secure: false,
+      }
+    }
+  }
+});
+```
+
 ## Tecnologías Utilizadas
 
 - React 18
