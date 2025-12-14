@@ -1,0 +1,114 @@
+```
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+coverage/
+htmlcov/
+.nyc_output/
+.c8/
+.jest/
+
+# Package manager
+package-lock.json
+yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vite
+.vite/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+
+# Browserslist
+.browserslistcache
+
+# Rollup
+.rollup.cache/
+
+# Source maps
+*.map
+
+# History files
+.history/
+
+# Binary files
+*.bin
+*.exe
+*.dll
+*.so
+*.a
+*.obj
+*.out
+*.o
+
+# Compressed files
+*.zip
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+
+# Google Auth library files
+.gtoken/
+
+# Google Cloud metadata
+.gcp/
+
+# NPM
+node_modules/.bin/
+node_modules/.package-lock.json
+
+# Temporary files from build tools
+*.tmp.js
+*.tmp.css
+
+```
