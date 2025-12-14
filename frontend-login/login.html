@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login con Verificación de Código - Sistema de Autenticación</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .app {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 400px;
+            padding: 2rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-container h2 {
+            margin-bottom: 1.5rem;
+            text-align: center;
+            color: #333;
+        }
+
+        .input-group {
+            margin-bottom: 1rem;
+        }
+
+        .input-group label {
+            display: block;
+            margin-bottom: 0.5rem;
+            color: #555;
+            font-weight: 500;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+            box-sizing: border-box;
+        }
+
+        .input-group input:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+        }
+
+        button {
+            width: 100%;
+            padding: 0.75rem;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0069d9;
+        }
+
+        .links {
+            margin-top: 1.5rem;
+            text-align: center;
+        }
+
+        .link-button {
+            background: none;
+            border: none;
+            color: #007bff;
+            text-decoration: underline;
+            cursor: pointer;
+            padding: 0.5rem 0;
+            font-size: 0.9rem;
+        }
+
+        .link-button:hover {
+            background: none;
+            color: #0056b3;
+        }
+
+        .verification-code-inputs {
+            display: flex;
+            justify-content: space-between;
+            margin: 1.5rem 0;
+        }
+
+        .code-digit {
+            width: 40px;
+            height: 50px;
+            text-align: center;
+            font-size: 1.5rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+
+        .code-digit:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+        }
+
+        .divider {
+            text-align: center;
+            position: relative;
+            margin: 1.5rem 0;
+            color: #666;
+        }
+
+        .divider::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: #ddd;
+            z-index: 1;
+        }
+
+        .divider span {
+            position: relative;
+            background: white;
+            z-index: 2;
+            padding: 0 1rem;
+        }
+
+        .google-auth-btn {
+            width: 100%;
+            padding: 0.75rem;
+            background-color: #fff;
+            color: #757575;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .google-auth-btn:hover {
+            background-color: #f5f5f5;
+        }
+
+        .google-auth-btn::before {
+            content: "G";
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background-color: #DB4437;
+            color: white;
+            border-radius: 2px;
+            text-align: center;
+            line-height: 20px;
+            margin-right: 10px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .google-auth-option {
+            margin-bottom: 1.5rem;
+        }
+
+        .resend-code {
+            margin-top: 1rem;
+            text-align: center;
+        }
+
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="app">
+        <div class="container">
+            <h1>Sistema de Autenticación</h1>
+            
+            <!-- Vista de inicio de sesión -->
+            <div id="login-view" class="form-container">
+                <h2>Iniciar Sesión</h2>
+                
+                <div id="login-form-section">
+                    <form id="login-form">
+                        <div class="input-group">
+                            <label for="email">Email:</label>
+                            <input type="email" id="email" required>
+                        </div>
+                        <div class="input-group">
+                            <label for="password">Contraseña:</label>
+                            <input type="password" id="password" required>
+                        </div>
+                        <button type="submit">Iniciar Sesión</button>
+                    </form>
+                    
+                    <div class="divider">O</div>
+                    
+                    <div class="google-auth-option">
+                        <button type="button" id="google-auth-btn" class="google-auth-btn">
+                            Iniciar sesión con Google
+                        </button>
+                    </div>
+                    
+                    <div class="links">
+                        <button id="to-register" class="link-button">
+                            ¿No tienes cuenta? Regístrate aquí
+                        </button>
+                        <button id="to-forgot-password" class="link-button">
+                            ¿Olvidaste tu contraseña?
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- Formulario de autenticación con Google -->
+                <div id="google-auth-section" class="hidden">
+                    <h3>Iniciar sesión con Google</h3>
+                    <div class="input-group">
+                        <label for="google-email">Email:</label>
+                        <input type="email" id="google-email" placeholder="Ingresa tu email de Google" required>
+                    </div>
+                    <button type="button" id="start-google-auth" class="google-auth-btn">
+                        Iniciar sesión con Google
+                    </button>
+                    <button type="button" id="back-to-login" class="link-button">
+                        Volver atrás
+                    </button>
+                </div>
+                
+                <!-- Formulario de verificación de Google -->
+                <div id="google-verification-section" class="hidden">
+                    <h3>Verificación de Seguridad</h3>
+                    <p id="verification-email">Se ha enviado un código de verificación a <span id="email-display"></span></p>
+                    
+                    <form id="google-verification-form">
+                        <div class="verification-code-inputs">
+                            <input type="text" maxlength="1" id="code-0" class="code-digit">
+                            <input type="text" maxlength="1" id="code-1" class="code-digit">
+                            <input type="text" maxlength="1" id="code-2" class="code-digit">
+                            <input type="text" maxlength="1" id="code-3" class="code-digit">
+                            <input type="text" maxlength="1" id="code-4" class="code-digit">
+                            <input type="text" maxlength="1" id="code-5" class="code-digit">
+                        </div>
+                        <button type="submit">Verificar Código</button>
+                    </form>
+                    
+                    <p class="resend-code">
+                        ¿No recibiste el código? <button type="button" class="link-button">Reenviar</button>
+                    </p>
+                    <button type="button" id="back-to-google-login" class="link-button">
+                        Volver atrás
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Vista de registro -->
+            <div id="register-view" class="form-container hidden">
+                <h2>Registro de Usuario</h2>
+                <form id="register-form">
+                    <div class="input-group">
+                        <label for="reg-email">Email:</label>
+                        <input type="email" id="reg-email" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="reg-password">Contraseña:</label>
+                        <input type="password" id="reg-password" required>
+                    </div>
+                    <div class="input-group">
+                        <label for="confirm-password">Confirmar Contraseña:</label>
+                        <input type="password" id="confirm-password" required>
+                    </div>
+                    <button type="submit">Registrarse</button>
+                </form>
+                
+                <div class="links">
+                    <button id="back-to-login-from-register" class="link-button">
+                        ¿Ya tienes cuenta? Inicia sesión aquí
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Vista de recuperación de contraseña -->
+            <div id="forgot-password-view" class="form-container hidden">
+                <h2>Recuperar Contraseña</h2>
+                <p>Ingresa tu email para recibir un código de verificación</p>
+                <form id="forgot-password-form">
+                    <div class="input-group">
+                        <label for="forgot-email">Email:</label>
+                        <input type="email" id="forgot-email" required>
+                    </div>
+                    <button type="submit">Enviar Código</button>
+                </form>
+                
+                <div class="links">
+                    <button id="back-to-login-from-forgot" class="link-button">
+                        Volver al inicio de sesión
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Vista de verificación de código -->
+            <div id="verification-view" class="form-container hidden">
+                <h2>Verificación de Código</h2>
+                <p>Ingresa el código de verificación enviado a tu correo electrónico</p>
+                <form id="verification-form">
+                    <div class="verification-code-inputs">
+                        <input type="text" maxlength="1" id="ver-code-0" class="code-digit">
+                        <input type="text" maxlength="1" id="ver-code-1" class="code-digit">
+                        <input type="text" maxlength="1" id="ver-code-2" class="code-digit">
+                        <input type="text" maxlength="1" id="ver-code-3" class="code-digit">
+                        <input type="text" maxlength="1" id="ver-code-4" class="code-digit">
+                        <input type="text" maxlength="1" id="ver-code-5" class="code-digit">
+                    </div>
+                    <button type="submit">Verificar Código</button>
+                </form>
+                
+                <div class="links">
+                    <button id="back-to-login-from-verification" class="link-button">
+                        Volver al inicio de sesión
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Elementos del DOM
+        const views = {
+            login: document.getElementById('login-view'),
+            register: document.getElementById('register-view'),
+            forgotPassword: document.getElementById('forgot-password-view'),
+            verification: document.getElementById('verification-view'),
+            loginFormSection: document.getElementById('login-form-section'),
+            googleAuthSection: document.getElementById('google-auth-section'),
+            googleVerificationSection: document.getElementById('google-verification-section')
+        };
+
+        // Funciones para cambiar vistas
+        function showView(viewName) {
+            // Ocultar todas las vistas
+            Object.values(views).forEach(view => {
+                if (view.classList.contains('form-container')) {
+                    view.classList.add('hidden');
+                }
+            });
+            
+            // Mostrar la vista deseada
+            views[viewName].classList.remove('hidden');
+        }
+
+        // Manejo de eventos para navegación entre vistas
+        document.getElementById('to-register').addEventListener('click', () => {
+            showView('register');
+        });
+
+        document.getElementById('to-forgot-password').addEventListener('click', () => {
+            showView('forgotPassword');
+        });
+
+        document.getElementById('back-to-login-from-register').addEventListener('click', () => {
+            showView('login');
+        });
+
+        document.getElementById('back-to-login-from-forgot').addEventListener('click', () => {
+            showView('login');
+        });
+
+        document.getElementById('back-to-login-from-verification').addEventListener('click', () => {
+            showView('login');
+        });
+
+        // Manejo de formulario de inicio de sesión
+        document.getElementById('login-form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+            console.log('Iniciar sesión con:', email, password);
+            alert('Inicio de sesión simulado con: ' + email);
+        });
+
+        // Manejo de formulario de registro
+        document.getElementById('register-form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const email = document.getElementById('reg-email').value;
+            const password = document.getElementById('reg-password').value;
+            const confirmPassword = document.getElementById('confirm-password').value;
+            
+            if (password !== confirmPassword) {
+                alert('Las contraseñas no coinciden');
+                return;
+            }
+            
+            console.log('Registrar usuario con:', email, password);
+            alert('Registro simulado con: ' + email);
+        });
+
+        // Manejo de formulario de recuperación de contraseña
+        document.getElementById('forgot-password-form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const email = document.getElementById('forgot-email').value;
+            console.log('Recuperar contraseña para:', email);
+            showView('verification');
+        });
+
+        // Manejo de formulario de verificación general
+        document.getElementById('verification-form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const code = Array.from({length: 6}, (_, i) => document.getElementById(`ver-code-${i}`).value).join('');
+            console.log('Código de verificación:', code);
+            alert('Código de verificación: ' + code);
+        });
+
+        // Manejo de autenticación con Google
+        document.getElementById('google-auth-btn').addEventListener('click', () => {
+            views.loginFormSection.classList.add('hidden');
+            views.googleAuthSection.classList.remove('hidden');
+        });
+
+        document.getElementById('back-to-login').addEventListener('click', () => {
+            views.googleAuthSection.classList.add('hidden');
+            views.loginFormSection.classList.remove('hidden');
+        });
+
+        document.getElementById('start-google-auth').addEventListener('click', () => {
+            const email = document.getElementById('google-email').value;
+            if (!email) {
+                alert('Por favor, ingresa tu email de Google');
+                return;
+            }
+            
+            document.getElementById('email-display').textContent = email;
+            views.googleAuthSection.classList.add('hidden');
+            views.googleVerificationSection.classList.remove('hidden');
+        });
+
+        document.getElementById('back-to-google-login').addEventListener('click', () => {
+            views.googleVerificationSection.classList.add('hidden');
+            views.googleAuthSection.classList.remove('hidden');
+        });
+
+        // Manejo de formulario de verificación de Google
+        document.getElementById('google-verification-form').addEventListener('submit', (e) => {
+            e.preventDefault();
+            const code = Array.from({length: 6}, (_, i) => document.getElementById(`code-${i}`).value).join('');
+            console.log('Código de verificación de Google:', code);
+            alert('Autenticación con Google completada con código: ' + code);
+        });
+
+        // Manejo de inputs de código de verificación (para mover entre campos)
+        function setupCodeInputHandling(inputsPrefix) {
+            for (let i = 0; i < 6; i++) {
+                const input = document.getElementById(`${inputsPrefix}${i}`);
+                input.addEventListener('input', (e) => {
+                    const value = e.target.value;
+                    if (/^[0-9]$/.test(value)) {
+                        if (i < 5) {
+                            const nextInput = document.getElementById(`${inputsPrefix}${i + 1}`);
+                            if (nextInput) nextInput.focus();
+                        }
+                    }
+                });
+                
+                input.addEventListener('keydown', (e) => {
+                    if (e.key === 'Backspace' && !e.target.value && i > 0) {
+                        const prevInput = document.getElementById(`${inputsPrefix}${i - 1}`);
+                        if (prevInput) prevInput.focus();
+                    }
+                });
+            }
+        }
+
+        // Configurar los inputs de código de verificación
+        setupCodeInputHandling('code-');
+        setupCodeInputHandling('ver-code-');
+
+        // Inicialmente mostramos la vista de login
+        showView('login');
+    </script>
+</body>
+</html>
